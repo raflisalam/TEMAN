@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appteman</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvSudahDaftar">Sudah punya akun?<font color="#5CA230"><u><b>Silahkan login disini!</b></u></font></string>
+    <string name="tvBelumDaftar">Belum punya akun?<font color="#5CA230"><u><b>Silahkan daftar disini!</b></u></font></string>
+    <string name="tvLupaPassword"><u>Lupa password?</u></string>
+    <string name="tvWelcome1">hello, <font color="#5CA230"><b>raflisalam!</b></font></string>
+    <string name="tvInfo">TEMAN (Tani Emergency Assistant) adalah aplikasi pendeteksi hama pada tanaman padi, membantu dan memberikan kemudahan ke- pada para petani padi untuk meningkatkan produktivitas padi, sehingga keberadaan padi di Indonesia semakin tumbuh dan semakin jaya.</string>
+
+</resources>
