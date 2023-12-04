@@ -11,7 +11,7 @@ TEMAN is an Android application designed to detect diseases in rice plants, aimi
 -Preview
 
 <div align="center"> 
-  <img src="preview/user-interfaces.svg" alt="screenshot" />
+  <img src="teman.png" alt="screenshot" />
 </div>
 
 <!-- Features -->
